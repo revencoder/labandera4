@@ -1,0 +1,33 @@
+
+.a{
+	height: 100px;
+	width: 100px;
+	padding:5px 5px 5px 5px;
+    margin:10px 10px 5px 10px;
+    text-align: left;
+    background-color: yellow;
+    display: inline-block;
+    font-family: "Poiret One";
+}
+
+.b{
+	height: 100px;
+	width: 100px;
+    padding:5px 5px 5px 5px;
+    margin:10px 10px 10px 10px;
+    text-align: left;
+    background-color: red;
+    display: inline-block;
+    font-family: "Poiret One";
+}
+
+.c{
+	height: 100px;
+	width: 150px;
+    padding:5px 5px 5px 5px;
+    margin:10px 10px 10px 10px;
+    text-align: left;
+    background-color: yellow;
+    display: inline-block;
+    font-family: "Poiret One";
+}
